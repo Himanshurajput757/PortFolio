@@ -24,7 +24,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Education Section Logo's
 import njpLogo from './assets/education_logo/navjyoti_logo.png';
-import uuLogo from './assets/education_logo/Uttaranchal.jpg';
+import uuLogo from './assets/education_logo/uttaranchal.jpg';
 import nldLogo from './assets/education_logo/nalanda_logo.png';
 import mduLogo from './assets/education_logo/mdulogo.jpg';
 
